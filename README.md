@@ -1,5 +1,5 @@
 # Data Encryption Program
-# note: mga ate yung file na "netcomm2(3algoSim).py" is a much simpler method the rest program whole sila na working simulataneously 
+# note: mga tol yung file na "netcomm2(3algoSim).py" is a much simpler method the rest program whole sila na working simulataneously 
 ## Overview
 This program implements three different encryption techniques for securing text data. It provides both encryption and decryption capabilities with a user-friendly interface.
 
@@ -52,3 +52,4 @@ This program implements three different encryption techniques for securing text 
 ### File Output
 
 All results are automatically saved to text files with the following naming convention:
+
